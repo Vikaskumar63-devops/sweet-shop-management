@@ -2,6 +2,7 @@
 
 A full-stack MERN application for managing a sweet shop inventory with user authentication, admin controls, and comprehensive testing.
 
+## Deploy Link - https://sweet-shop-management-system-eta.vercel.app
 
 ## 📖 Project Overview
 
