@@ -324,10 +324,10 @@ The application maintains high-quality standards with comprehensive testing:
 
 ## 👨‍💻 Author
 
-**Raheel Parekh**
+**Vikas Kumar**
 - GitHub: https://github.com/Vikaskumar63-devop
 - Project: https://github.com/Vikaskumar63-devops/sweet-shop-management
 
 
 
-*Built with ❤️ using the MERN stack and modern development practices*
+*Built Vikas Kumar with ❤️ using the MERN stack and modern development practices*
